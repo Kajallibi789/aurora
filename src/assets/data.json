@@ -1,0 +1,259 @@
+[
+  {
+    "name": "Grand Hotel",
+    "nightlyPrice": 800,
+    "cardBackground": "https://images.unsplash.com/photo-1630587148265-761cbd139043?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8Z3JhbmQlMjBob3RlbHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60",
+    "address": {
+      "streetAddress":"12A",
+      "city": "Suryanelli",
+      "state": "Kerala",
+      "country": "India"
+    },
+    "rating": 4.5,
+    "accommodationType": "hotel",
+    "photos": [
+      "https://images.unsplash.com/photo-1522798514-97ceb8c4f1c8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80",
+      "https://images.unsplash.com/photo-1618773928121-c32242e63f39?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+    ],
+    "overview": "The Grand Hotel offers luxurious accommodations and top-notch amenities for discerning travelers.",
+    "rooms": [
+      {
+        "name": "Deluxe Room",
+        "description": "Spacious room with king-sized bed and stunning views.",
+        "price": 1000
+      },
+      {
+        "name": "Executive Suite",
+        "description": "Elegant suite with separate living area and whirlpool tub.",
+        "price": 1250
+      },
+      {
+        "name": "Standard Room",
+        "description": "Comfortable room with queen-sized bed and all the essentials.",
+        "price": 800
+      }
+    ],
+    "location": {
+      "lat": 40.7128,
+      "lng": -74.006
+    },
+    "amenities": [
+      "Free WiFi",
+      "24-hour front desk",
+      "Concierge service",
+      "Indoor pool",
+      "On-site restaurant",
+      "Room service",
+      "Business center",
+      "Pet friendly"
+    ]
+  },
+  {
+    "name": "Double Tree Villa",
+    "nightlyPrice": 950,
+    "cardBackground": "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "address": {
+      "streetAddress":"34 Main Street",
+      "city": "Suryanelli",
+      "state": "Kerala",
+      "country": "India"
+    },
+    "rating": 4.1,
+    "accommodationType": "hotel",
+    "photos": [
+      "https://images.unsplash.com/photo-1563911302283-d2bc129e7570?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTczNzF8MHwxfHNlYXJjaHwxfHwlMjBob3RlbHxlbnwwfDF8fHwxNzE0NzM1OTM3fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1576354302919-96748cb8299e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTczNzF8MHwxfHNlYXJjaHw4fHwlMjBob3RlbHxlbnwwfDF8fHwxNzE0NzM1OTM3fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1559508551-44bff1de756b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTczNzF8MHwxfHNlYXJjaHw3fHxob3RlbHN8ZW58MHwxfHx8MTcxNDczNTMyM3ww&ixlib=rb-4.0.3&q=80&w=1080"
+    ],
+    "overview": "Discover Double Tree Villa: tranquil luxury, personalized service, and modern comforts. Relax by the pool and explore local attractions for an unforgettable stay.",
+    "rooms": [
+      {
+        "name": "Ocean View Suite",
+        "description": "Spacious suite with stunning views of the ocean.",
+        "price": 1100
+      },
+      {
+        "name": "Garden View Room",
+        "description": "Cozy room with garden views and all the essentials.",
+        "price": 950
+      },
+      {
+        "name": "Standard Room",
+        "description": "Comfortable room with all the essentials.",
+        "price": 900
+      }
+    ],
+    "location": {
+      "lat": 25.7617,
+      "lng": -80.1918
+    },
+    "amenities": [
+      "Free WiFi",
+      "24-hour front desk",
+      "Concierge service",
+      "Outdoor pool",
+      "On-site restaurant",
+      "Room service",
+      "Beach bar",
+      "Water sports",
+      "Kid's club"
+    ]
+  },
+  {
+    "name": "Drive-Inn Motel",
+    "nightlyPrice": 700,
+    "cardBackground": "https://images.unsplash.com/photo-1602061970430-4fbf0ddc4c16?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+    "address": {
+      "streetAddress":"22 Devikulam Road",
+      "city": "Mankulam",
+      "state": "Kerala",
+      "country": "India"
+    },
+    "rating": 4.2,
+    "accommodationType": "motel",
+    "photos": [
+      "https://images.unsplash.com/photo-1554647286-f365d7defc2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTczNzF8MHwxfHNlYXJjaHw5fHwlMjBob3RlbHxlbnwwfDF8fHwxNzE0NzM1OTM3fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1445019980597-93fa8acb246c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1174&q=80",
+      "https://images.unsplash.com/photo-1629140727571-9b5c6f6267b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTczNzF8MHwxfHNlYXJjaHw3fHwlMjBob3RlbHxlbnwwfDF8fHwxNzE0NzM1OTM3fDA&ixlib=rb-4.0.3&q=80&w=1080"
+    ],
+    "overview": "Welcome to Drive-Inn Motel, located in picturesque Vattavada, Kerala. Experience cozy accommodations, friendly service, and easy access to local attractions. Your perfect base for exploring the beauty of Kerala.",
+    "rooms": [
+      {
+        "name": "Mountain View Suite",
+        "description": "Spacious suite with stunning views of the mountains.",
+        "price": 950
+      },
+      {
+        "name": "Standard Room",
+        "description": "Comfortable room with all the essentials.",
+        "price": 700
+      },
+      {
+        "name": "Family Room",
+        "description": "Perfect for families with bunk beds and plenty of space.",
+        "price": 850
+      }
+    ],
+    "location": {
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    "amenities": [
+      "Free WiFi",
+      "24-hour front desk",
+      "Concierge service",
+      "Fitness center",
+      "Hot tub",
+      "Sauna",
+      "On-site restaurant",
+      "Room service",
+      "Business center",
+      "Pet friendly"
+    ]
+  },
+  {
+    "name": "Golden Vintage Resort",
+    "nightlyPrice": 850,
+    "cardBackground": "https://images.unsplash.com/photo-1562790351-d273a961e0e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTczNzF8MHwxfHNlYXJjaHw0fHwlMjBob3RlbHxlbnwwfDF8fHwxNzE0NzM1OTM3fDA&ixlib=rb-4.0.3&q=80&w=1080",
+    "address": {
+      "streetAddress":"56 Kanjiramattom Street",
+      "city": "Mankulam",
+      "state": "Kerala",
+      "country": "India"
+    },
+    "rating": 3.8,
+    "accommodationType": "resort",
+    "photos": [
+      "https://images.unsplash.com/photo-1554009975-d74653b879f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTczNzF8MHwxfHNlYXJjaHwxMHx8JTIwaG90ZWx8ZW58MHwxfHx8MTcxNDczNTkzN3ww&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1556020685-ae41abfc9365?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTczNzF8MHwxfHNlYXJjaHwyfHxyZXNvcnQlMjBrZXJhbGElMjB3aXRoJTIwYmVkcm9vbXxlbnwwfDF8fHwxNzE0NzM4NTgxfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTczNzF8MHwxfHNlYXJjaHwzfHwlMjBob3RlbHxlbnwwfDF8fHwxNzE0NzM1OTM3fDA&ixlib=rb-4.0.3&q=80&w=1080"
+    ],
+    "overview": "Escape to Golden Vintage Resort in scenic Vattavada, Kerala. Discover luxurious accommodations, warm hospitality, and breathtaking views. Unwind amidst nature's beauty for an unforgettable retreat.",
+    "rooms": [
+      {
+        "name": "Deluxe Suite",
+        "description": "Experience the ultimate luxury in our spacious deluxe suite.",
+        "price": 1200
+      },
+      {
+        "name": "Garden View Room",
+        "description": "Relax in our cozy garden view room surrounded by beautiful nature and equipped with all the modern amenities.",
+        "price": 900
+      },
+      {
+        "name": "Family Suite",
+        "description": "Perfect for families, our family suite comes with two bedrooms, two bathrooms and a spacious living room with a private balcony.",
+        "price": 1000
+      }
+    ],
+    "location": {
+      "lat": 36.8969,
+      "lng": 30.7133
+    },
+    "amenities": [
+      "Free WiFi",
+      "24-hour front desk",
+      "Concierge service",
+      "Fitness center",
+      "Spa and wellness center",
+      "Outdoor pool",
+      "On-site restaurant",
+      "Room service"
+    ]
+  },
+  {
+    "name": "Cleveland Hotel",
+    "nightlyPrice": 850,
+    "cardBackground": "https://images.unsplash.com/photo-1645226626345-fc884e2d8fcf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1073&q=80",
+    "address": {
+      "streetAddress":"7/5 Main Street",
+      "city": "Mankulam",
+      "state": "Kerala",
+      "country": "India"
+    },
+    "rating": 4.9,
+    "accommodationType": "hotel",
+    "photos": [
+      "https://images.unsplash.com/photo-1518733057094-95b53143d2a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTczNzF8MHwxfHNlYXJjaHw1fHwlMjBob3RlbHxlbnwwfDF8fHwxNzE0NzM1OTM3fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1549294413-26f195200c16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTczNzF8MHwxfHNlYXJjaHw1fHwlMjBob3RlbHN8ZW58MHwxfHx8MTcxNDczODc4Nnww&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1523699289804-55347c09047d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTczNzF8MHwxfHNlYXJjaHw2fHwlMjBob3RlbHN8ZW58MHwxfHx8MTcxNDczODc4Nnww&ixlib=rb-4.0.3&q=80&w=1080"
+    ],
+    "overview": "Discover Cleveland Hotel nestled in Vattavada, Kerala. Experience comfort, convenience, and warm hospitality. Explore serene surroundings and indulge in local cuisine for a memorable stay.",
+    "rooms": [
+      {
+        "name": "Executive Suite",
+        "description": "Spacious suite with separate living area and stunning city views.",
+        "price": 1150
+      },
+      {
+        "name": "City View Room",
+        "description": "Comfortable room with views of the city and all the essentials.",
+        "price": 850
+      },
+      {
+        "name": "Standard Room",
+        "description": "Comfortable room with all the essentials.",
+        "price": 800
+      },
+      {
+        "name": "Family Room",
+        "description": "Perfect for families with two queen-sized beds and plenty of space.",
+        "price": 1000
+      }
+    ],
+    "location": {
+      "lat": 37.7749,
+      "lng": -122.4194
+    },
+    "amenities": [
+      "Free WiFi",
+      "24-hour front desk",
+      "Concierge service",
+      "Fitness center",
+      "Indoor pool",
+      "On-site restaurant",
+      "Room service"
+    ]
+  }
+]
